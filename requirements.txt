@@ -1,0 +1,13 @@
+python-dotenv
+qdrant-client
+sentence-transformers
+numpy
+groq
+pandas
+flask
+flask-cors
+waitress
+litellm
+crewai
+faker
+names
