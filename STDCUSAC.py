@@ -134,16 +134,3 @@ class GenerateSTDCUSAC:
             print(f"Error saving file to {file_path}: {e}")
             return False
 
-# # If the script is run directly (for testing)
-# if __name__ == "__main__":
-#     parser = argparse.ArgumentParser(description='Generate STDCUSAC test cases in Excel format')
-#     parser.add_argument('--count', type=int, default=10, help='Number of test cases to generate')
-#     parser.add_argument('--output', type=str, default='STDCUSAC_Cases.xlsx', help='Output file path')
-#     parser.add_argument('--master', type=str, default='masterfile.xlsx', help='Path to master file with branch names')
-#     args = parser.parse_args()
-    
-#     # Generate test cases
-#     df = GenerateSTDCUSAC.generate_test_cases(args.count, args.master)
-    
-#     # Save to Excel
-#     GenerateSTDCUSAC.save_to_excel(df, args.output)
