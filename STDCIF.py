@@ -358,9 +358,4 @@ class GenerateSTDCIF:
         print(f"Generated {len(test_data)} test cases and saved to {output_file}")
         return True
 
-# if __name__ == "__main__":
-#     master_file=r"C:\Users\166\Desktop\FSD\word-doc-generator\masterfile.xlsx"
-#     output_file=r"C:\Users\166\Desktop\FSD\STDCIF_Cases.xlsx"
-#     count=100
-#     GenerateSTDCIF.generate_excel(master_file, output_file, count)
 
