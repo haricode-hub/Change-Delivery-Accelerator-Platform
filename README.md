@@ -43,4 +43,6 @@ A full-stack AI-powered application that automates the generation of **Flexcube 
 | **LLM**      | Groq API (LLaMA 3.3)               |
 | **Documents**| `python-docx`, `openpyxl`          |
 | **Env Config**| `python-dotenv`, `pydantic`       |
+![image](https://github.com/user-attachments/assets/956400e8-459a-4f00-ac41-a46502604215)
+
 
