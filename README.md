@@ -44,5 +44,6 @@ A full-stack AI-powered application that automates the generation of **Flexcube 
 | **Documents**| `python-docx`, `openpyxl`          |
 | **Env Config**| `python-dotenv`, `pydantic`       |
 ![image](https://github.com/user-attachments/assets/956400e8-459a-4f00-ac41-a46502604215)
+![image](https://github.com/user-attachments/assets/370b3dac-1b66-4394-9d24-7aa26505b428)
 
 
